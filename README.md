@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Harol Tapia  
 
-<!--
-**tapiaharol/tapiaharol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en constante aprendizaje, apasionado por la programación, el software libre y la innovación tecnológica.  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí  
+- 🔭 Actualmente explorando proyectos de **inteligencia artificial** y **ciberseguridad** con enfoque en **software libre**.  
+- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.  
+- 🤝 Me interesa colaborar en proyectos que aporten valor a la comunidad.  
+- ⚡ Me motiva la idea de transformar problemas en soluciones prácticas mediante el código.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas  
+- Lenguajes: Java ☕ | Python 🐍 | JavaScript ⚡  
+- Control de versiones: Git & GitHub  
+- Bases de datos: MySQL | PostgreSQL  
+- Otros: Linux 🐧 | Docker 🐳  
+
+## 📊 Estadísticas de GitHub  
+![Harol's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)  
+
+## 🌐 Conecta conmigo  
+- LinkedIn: [Tu perfil](https://www.linkedin.com/)  
+- Correo: tuemail@example.com  
+
+✨ *Gracias por visitar mi perfil, aquí encontrarás mis proyectos y experimentos con código.*  
