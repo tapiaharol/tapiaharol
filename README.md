@@ -37,9 +37,9 @@ Me interesa crear soluciones que combinen innovación, seguridad y accesibilidad
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ [Correo](tapiaharol@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com) *(Htapia)*  
-- 🐙 [GitHub](https://github.com/tapiaharol)  
+- ✉️ tapiaharol@gmail.com  
+- 💼 [LinkedIn] Htapia  
+- 🐙 [GitHub] tapiaharol  
 
 ---
 
