@@ -18,7 +18,7 @@
 ![Harol's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)  
 
 ## 🌐 Conecta conmigo  
-- LinkedIn: [Tu perfil](https://www.linkedin.com/)  
-- Correo: tuemail@example.com  
+- LinkedIn: [Htapia](https://www.linkedin.com/)  
+- Correo: tapiaharol@gmail.com  
 
 ✨ *Gracias por visitar mi perfil, aquí encontrarás mis proyectos y experimentos con código.*  
